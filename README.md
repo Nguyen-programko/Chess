@@ -2,6 +2,9 @@
 
 Chess for two players on one device, or against a built-in engine
 
+![Screenshot](https://files.xuan-tiep.com/chess.png)
+![Screenshot](https://files.xuan-tiep.com/chess-2.png)
+
 **Stack:** C# · WinForms · .NET 10
 
 ## Running application
